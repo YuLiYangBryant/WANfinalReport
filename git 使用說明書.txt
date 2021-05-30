@@ -1,0 +1,6 @@
+git stash 暫存我們的檔案
+git pull 更新最新的檔案
+git stash pop 將我們的檔案重新覆蓋上去
+git add "檔名" 新增我們的檔案
+git commit -m"更新word內容"  打上註解
+git push 更新上雲端
